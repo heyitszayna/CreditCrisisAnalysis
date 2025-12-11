@@ -1,0 +1,26 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:         high_portfolio   R-squared:                       0.647
+Model:                            OLS   Adj. R-squared:                  0.638
+Method:                 Least Squares   F-statistic:                     73.28
+Date:                Tue, 09 Dec 2025   Prob (F-statistic):           8.23e-19
+Time:                        14:14:04   Log-Likelihood:                 124.50
+No. Observations:                  83   AIC:                            -243.0
+Df Residuals:                      80   BIC:                            -235.8
+Df Model:                           2                                         
+Covariance Type:            nonrobust                                         
+================================================================================
+                   coef    std err          t      P>|t|      [0.025      0.975]
+--------------------------------------------------------------------------------
+const            0.0006      0.008      0.077      0.939      -0.016       0.017
+market           1.7106      0.146     11.724      0.000       1.420       2.001
+crisis_dummy    -0.0098      0.012     -0.789      0.433      -0.034       0.015
+==============================================================================
+Omnibus:                       14.886   Durbin-Watson:                   2.082
+Prob(Omnibus):                  0.001   Jarque-Bera (JB):               24.356
+Skew:                           0.697   Prob(JB):                     5.14e-06
+Kurtosis:                       5.258   Cond. No.                         26.9
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
