@@ -3,7 +3,7 @@
 ## Term Project: Securitization & the 2007–2009 Credit Crisis
 
 This repository contains the materials submitted for the **CODS 626 (Financial Derivatives & Risk Management)** final term project.  
-The project investigates how securitization of subprime mortgages affected the risk and stock-market performance** of major U.S. financial institutions during the 2007–2009 financial crisis.  
+The project investigates how the securitization of subprime mortgages affected the risk and stock-market performance of major U.S. financial institutions during the 2007–2009 financial crisis.  
 The analysis compares high-exposure banks with lower-exposure banks over the period 2003–2009, using Python to compute volatility, beta, drawdowns, correlation structures, and statistical validation tests.
 
 ---
