@@ -1,4 +1,4 @@
-# CODS 626 – Financial Derivatives & Risk Management
+# 📊 CODS 626 – Financial Derivatives & Risk Management
 
 ## Term Project: Securitization & the 2007–2009 Credit Crisis
 
