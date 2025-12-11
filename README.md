@@ -9,23 +9,19 @@ The project investigates how the securitization of subprime mortgages affected t
 
 ## 📁 Contents
 
-- `data/`
-  Contains the processed dataset files used in the analysis  
+- `data/` — Contains the processed dataset files used in the analysis  
   *(monthly returns, pre-crisis and crisis splits, bank vs market data).*
 
-- `results/`
-  Includes all generated outputs such as:  
+- `results/` — Includes all generated outputs such as:  
   – Volatility & beta comparison plots  
   – Maximum drawdown charts  
   – Correlation heatmaps  
   – Statistical test summaries  
   – Regression output
 
-- `securitization_data.py`
-  Python script for downloading and preprocessing historical price data (2003–2009).
+- `securitization_data.py` — Python script for downloading and preprocessing historical price data (2003–2009).
 
-- `securitization_analysis.py`
-  Python script performing the full analysis: risk metrics, statistical tests, and figure generation.
+- `securitization_analysis.py` — Python script performing the full analysis: risk metrics, statistical tests, and figure generation.
 
 ---
 
